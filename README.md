@@ -14,7 +14,7 @@ ESP32, ky-026(불꽃 감지 센서), GP2Y1010AU0F(먼지 감지 센서), ACS712 
 
 입력(센서) -> 판단(코드) -> 출력(동작) -> 표시(스마트 폰 앱, 웹 대시보드)
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/72b29dd2-c624-4160-b163-c24fdfed7699" />
+![Uploading IMG_1224.jpeg…]()
 
 ## 실행 방법
 
